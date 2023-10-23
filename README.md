@@ -6,4 +6,8 @@
 https://raw.githubusercontent.com/Tianyi94/MyDalamudPlugins/main/pluginmaster.json
 ```
 
-## XIVAutoKey
+## AutoRetainer
+来自 https://github.com/PunishXIV/AutoRetainer
+
+## Saucy
+来自 https://github.com/PunishXIV/Saucy
