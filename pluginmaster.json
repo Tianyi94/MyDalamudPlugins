@@ -9,12 +9,34 @@
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
     "DownloadCount": 144003,
     "LastUpdate": 1697928195593,
-    "DownloadLinkInstall": "https://github.com/Tianyi94/AutoRetainer/releases/download/CN6.4/CN6.4.zip",
-    "DownloadLinkUpdate": "https://github.com/Tianyi94/AutoRetainer/releases/download/CN6.4/CN6.4.zip",
+    "DownloadLinkInstall": "https://github.com/Tianyi94/MyDalamudPlugins/blob/main/Plugins/AutoRetainer.zip",
+    "DownloadLinkUpdate": "https://github.com/Tianyi94/MyDalamudPlugins/blob/main/Plugins/AutoRetainer.zip",
     "AssemblyVersion": "3.1.5.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "8",
     "Changelog": "- Fixed an issue where having multiple characters with the same name on the same world would cause issues\n- Added new feature: timed game shutdown. To use, type the command: /autoretainer shutdown <hours> [minutes] [seconds].",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+  },
+    {
+    "Author": "Taurenkey",
+    "Name": "Saucy for CN 6.4",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "DownloadCount": 59044,
+    "LastUpdate": 1696597899287,
+    "DownloadLinkInstall": "https://github.com/Tianyi94/MyDalamudPlugins/blob/main/Plugins/Saucy.zip",
+    "DownloadLinkUpdate": "https://github.com/Tianyi94/MyDalamudPlugins/blob/main/Plugins/Saucy.zip",
+    "AssemblyVersion": "1.2.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "Fix Triple Triad sometimes not playing",
+    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
   }
 ]
