@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer for CN 6.4",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Tags": [],
+    "InternalName": "AutoRetainer",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "DownloadCount": 144003,
+    "LastUpdate": 1697928195593,
+    "DownloadLinkInstall": "https://github.com/Tianyi94/AutoRetainer/releases/download/CN6.4/CN6.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Tianyi94/AutoRetainer/releases/download/CN6.4/CN6.4.zip",
+    "AssemblyVersion": "3.1.5.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "8",
+    "Changelog": "- Fixed an issue where having multiple characters with the same name on the same world would cause issues\n- Added new feature: timed game shutdown. To use, type the command: /autoretainer shutdown <hours> [minutes] [seconds].",
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+  }
+]
